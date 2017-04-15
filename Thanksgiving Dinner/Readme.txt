@@ -1,0 +1,1 @@
+ThanksGiving dinner is a tradition in America where this will be organized once in a year. This dataset analysis on the type of dishes chosen to eat in various region of America during thanksgiving dinner, the financial level of people and the age group who prefer to attend the thanksgiving dinner.
